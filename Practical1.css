@@ -1,0 +1,36 @@
+.left,.right{
+    display: inline-block;
+}
+
+.whole{
+    display: flex;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.dp{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    margin-left: 20%;
+}
+
+.left{
+    width: 70%;
+    background-color: rgb(218, 221, 247);
+    padding-left: 30px;
+    padding-right: 50px;
+}
+
+.right{
+    padding-left: 20px;
+    background-color: rgb(255,142,2);
+    width: 30%;
+}
+
+.subh{
+    color: rgb(255,142,2);
+}
+
+.suh{
+    color: rgb(50 64 187) ;
+}
